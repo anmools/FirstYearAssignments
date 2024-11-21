@@ -1,0 +1,26 @@
+.navbar{
+    background-color:#3B3B5B;
+    overflow: hidden;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: #FBFEF9; /* Change this to your preferred text color */
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the color of links on hover */
+.navbar a:hover {
+    background-color: #B3C5DB;
+    color: #FBFEF9;
+}
+
+footer {
+    background-color: #3B3B5B; /* Change to your preferred color */
+    color: #FBFEF9; /* Change to your preferred text color */
+    text-align: center;
+    padding: 10px;
+}
