@@ -1,0 +1,21 @@
+lic_Plate	colour	maker	model	mileage	engine_displacement	 engine_power	transmission	fuel_type	date_created	date_sold	days_to_ sell	day_sold	price_eur
+161 KE 1	gold	mercedes-benz	v40	55000	40000	88	auto	diesel	23-May-20	25/05/2020			23902.66
+161 KE 2	green	hyundai	a3	43000	31900	66		petrol	24-May-20	31/05/2020			1202.81
+161 KE 3	silver		punto		1242	 		petrol	25-May-20	25/05/2020			958.55
+161 KE 4	brown	audi		3500	2143	140	auto	diesel	26-May-20	29-May-20			53448.93
+161 KE 5	brown			3500	2143	140	auto	diesel	27-May-20	29-May-20			53445
+161 KE 6	red	isuzu		10	1325	 	auto	petrol	28-May-20	02/06/2020			59906.66
+161 KE 7	red	nissan	mustang	10	1300	 	man	petrol	29-May-20	16/06/2020			37004.11
+161 KE 8	red		ram	10		 	auto	petrol	30-May-20	30/08/2020			63907.11
+161 KE 9	black	audi	a3	30	1968	110	man	diesel	31-May-20	02/06/2020			21327.35
+161 KE 10	black	seat	alhambra	23	1968	110	man	diesel	01-Jun-20	07/06/2020			27301.04
+161 D 12	orange			154000		 		petrol	02-Jun-20	23/06/2020			407.11
+161 D 13	black	 	octavia	100	16900	 		petrol	03-Jun-20	06/06/2020			1406.37
+161 D 14	orange	mercedes-benz		154000		 		petrol	04-Jun-20	06/06/2020			407.11
+161 D 15	black		octavia	198000	1900	77	man	diesel	05-Jun-20	06/06/2020			4067.36
+161 D 112	black	bmw		10	1968	110	man	diesel	06-Jun-20	07/06/2020			22502.52
+161 D 113	orange	hyundai		65433	1254	 		petrol	07-Jun-20	22/06/2020			1776.46
+161 D 114	black	nissan		33333	16200	 		petrol	08-Jun-20	23/06/2020			551.44
+161 D 115	brown	hyundai	accord		2000	 		petrol	09-Jun-20	24/06/2020			444.12
+161 D 112	brown				267	 		diesel	10-Jun-20	25/06/2020			555.14
+161 D 12	orange	audi		154000	30000	 		petrol	02-Jun-20	23/06/2020			407.11
